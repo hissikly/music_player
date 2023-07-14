@@ -10,6 +10,7 @@ window.resizable(False, False)
 window.config(bg='blue')
 window['bg'] = '#6A5ACD'
 
+#dasdsadasdsad
 # def func(i):
 #     print(i)
 #
