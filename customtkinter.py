@@ -10,23 +10,6 @@ window.resizable(False, False)
 window.config(bg='blue')
 window['bg'] = '#6A5ACD'
 
-# class Input:
-#     def __init__(self, window, fg):
-#         self.frame = Canvas(window, width=500, height=500, bg='green')
-#         self.entry = Entry(self.frame, fg=fg)
-#         self.button = Button(self.frame, fg=fg, text='Отправить')
-#
-#     def place(self, x, y):
-#         self.frame.pack()
-#         self.entry.pack(side=LEFT)
-#         self.button.pack(side=LEFT, padx=10)
-
-#
-# if __name__ == '__main__':
-#     for i in range(5):
-#         input = Input(window, fg='orange')
-#         input.place(10, 10)
-
 # def func(i):
 #     print(i)
 #
